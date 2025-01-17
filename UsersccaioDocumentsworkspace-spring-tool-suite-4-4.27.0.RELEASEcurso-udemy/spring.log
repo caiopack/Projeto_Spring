@@ -1,0 +1,20 @@
+2025-01-17 13:35:03.345  INFO 18640 --- [restartedMain] com.curso.CursoUdemyApplication          : Starting CursoUdemyApplication on Caiopc with PID 18640 (C:\Users\ccaio\Documents\workspace-spring-tool-suite-4-4.27.0.RELEASE\curso-udemy\target\classes started by ccaio in C:\Users\ccaio\Documents\workspace-spring-tool-suite-4-4.27.0.RELEASE\curso-udemy)
+2025-01-17 13:35:03.349 DEBUG 18640 --- [restartedMain] com.curso.CursoUdemyApplication          : Running with Spring Boot v2.2.4.RELEASE, Spring v5.2.3.RELEASE
+2025-01-17 13:35:03.350  INFO 18640 --- [restartedMain] com.curso.CursoUdemyApplication          : No active profile set, falling back to default profiles: default
+2025-01-17 13:35:03.421  INFO 18640 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2025-01-17 13:35:03.421  INFO 18640 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2025-01-17 13:35:04.183  INFO 18640 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2025-01-17 13:35:04.194  INFO 18640 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2025-01-17 13:35:04.194  INFO 18640 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.30]
+2025-01-17 13:35:04.257  INFO 18640 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/udemy]  : Initializing Spring embedded WebApplicationContext
+2025-01-17 13:35:04.257  INFO 18640 --- [restartedMain] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 836 ms
+2025-01-17 13:35:04.387  INFO 18640 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2025-01-17 13:35:04.504  INFO 18640 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2025-01-17 13:35:04.553  INFO 18640 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path '/udemy'
+2025-01-17 13:35:04.556  INFO 18640 --- [restartedMain] com.curso.CursoUdemyApplication          : Started CursoUdemyApplication in 1.531 seconds (JVM running for 2.317)
+2025-01-17 13:35:04.558  INFO 18640 --- [restartedMain] com.curso.CursoUdemyApplication          : Finalizando RUN
+2025-01-17 13:35:04.558  WARN 18640 --- [restartedMain] com.curso.CursoUdemyApplication          : Alerta no codigo
+2025-01-17 13:35:04.559 ERROR 18640 --- [restartedMain] com.curso.CursoUdemyApplication          : Erro no codigo
+2025-01-17 13:35:04.559 DEBUG 18640 --- [restartedMain] com.curso.CursoUdemyApplication          : Debugando o codigo
+2025-01-17 13:35:10.034  INFO 18640 --- [RMI TCP Connection(2)-127.0.0.1] inMXBeanRegistrar$SpringApplicationAdmin : Application shutdown requested.
+2025-01-17 13:35:10.036  INFO 18640 --- [RMI TCP Connection(2)-127.0.0.1] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
